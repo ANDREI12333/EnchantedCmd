@@ -1,2 +1,2 @@
 # Images
-This directory contains brand images!
+This directory contains help images!
