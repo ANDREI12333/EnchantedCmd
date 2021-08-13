@@ -1,2 +1,2 @@
 # EnchantedCmd
-A Better Command Prompt for windows 10!
+A Better Command Prompt for windows!
